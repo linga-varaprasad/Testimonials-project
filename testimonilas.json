@@ -1,0 +1,12 @@
+[
+    {
+        "name": "John Doe",
+        "collegeCompany": "ABC University",
+        "review": "Great experience with the services provided."
+    },
+    {
+        "name": "Jane Smith",
+        "collegeCompany": "XYZ Corporation",
+        "review": "Excellent support and timely delivery of solutions."
+    }
+]
