@@ -9,4 +9,42 @@
         "collegeCompany": "XYZ Corporation",
         "review": "Excellent support and timely delivery of solutions."
     }
+    [
+    {
+        "name": "John Doe",
+        "collegeCompany": "ABC University",
+        "review": "Great experience with the services provided."
+    },
+    {
+        "name": "Jane Smith",
+        "collegeCompany": "XYZ Corporation",
+        "review": "Excellent support and timely delivery of solutions."
+    },
+    {
+        "name": "Bob Johnson",
+        "collegeCompany": "123 Tech",
+        "review": "Outstanding service! Helped us achieve our goals efficiently."
+    },
+    {
+        "name": "Alice Williams",
+        "collegeCompany": "Global Innovations",
+        "review": "Very professional team. Impressed with the quality of work."
+    },
+    {
+        "name": "Chris Brown",
+        "collegeCompany": "Tech Nexus",
+        "review": "Highly recommend their services. A pleasure to work with."
+    },
+    {
+        "name": "Emily Davis",
+        "collegeCompany": "Infinite Solutions",
+        "review": "Exceptional support and quick problem resolution. A++"
+    },
+    {
+        "name": "Michael Miller",
+        "collegeCompany": "Data Dynamics",
+        "review": "Incredible attention to detail. Helped us optimize our processes."
+    }
+]
+
 ]
